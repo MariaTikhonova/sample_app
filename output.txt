@@ -1,0 +1,23 @@
+Script started on пн, 13-лис-2017 21:00:58 +0200
+]0;rghost@Thinkstation: ~/workspace/sample_app[01;32mrghost@Thinkstation[00m:[01;34m~/workspace/sample_app[00m$ rails test
+Running via Spring preloader in process 13480
+/home/rghost/workspace/sample_app/db/schema.rb doesn't exist yet. Run `rails db:migrate` to create it, then try again. If you do not intend to use a database, you should instead alter /home/rghost/workspace/sample_app/config/application.rb to limit the frameworks that will be loaded.
+Started with run options --seed 61880
+
+                                                                                                                                       /0: [=---=---=---=---=---=---=---=---=---=---=---=---=---=---=---=---=---=---=---=---=---=---=--] 0% Time: 00:00:00,  ETA: ??:??:??Run options: --seed 61880
+
+# Running:
+
+  5/1: [[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m                                                                        ] 20% Time: 00:00:00,  ETA: 00:00:03[32m.[0m[32m.[0m  5/3: [[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m                                    ] 60% Time: 00:00:00,  ETA: 00:00:01[32m.[0m[32m.[0m  5/5: [[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m[32m=[0m] 100% Time: 00:00:00, Time: 00:00:00
+[32m.[0m
+Finished in 0.81382s
+5 tests, 9 assertions, [32m0 failures, 0 errors, [0m[33m0 skips[0m
+]2;[Minitest results] 5 tests
+
+
+Finished in 1.027370s, 4.8668 runs/s, 8.7602 assertions/s.
+5 runs, 9 assertions, 0 failures, 0 errors, 0 skips
+]0;rghost@Thinkstation: ~/workspace/sample_app[01;32mrghost@Thinkstation[00m:[01;34m~/workspace/sample_app[00m$ [K]0;rghost@Thinkstation: ~/workspace/sample_app[01;32mrghost@Thinkstation[00m:[01;34m~/workspace/sample_app[00m$ exit
+exit
+
+Script done on вт, 14-лис-2017 11:27:26 +0200
